@@ -1,0 +1,8 @@
+transformers
+torch
+diffusers
+accelerate
+safetensors
+imageio
+opencv-python
+numpy
