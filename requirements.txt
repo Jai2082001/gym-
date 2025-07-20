@@ -6,3 +6,4 @@ safetensors
 imageio
 opencv-python
 numpy==1.24.4
+python-dotenv
